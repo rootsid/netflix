@@ -1,3 +1,6 @@
+## Hosted on
+https://netflix-clone-4fbae.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
